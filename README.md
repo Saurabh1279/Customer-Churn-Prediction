@@ -271,9 +271,8 @@ This project can help telecom companies:
 
 ### Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/saurabh-mahajan-/
-- GitHub: https://github.com/Saurabh1279
+🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-mahajan-/)
 
----
+💻 [GitHub](https://github.com/Saurabh1279)
 
 ⭐ If you found this project useful, please consider giving it a star on GitHub!
