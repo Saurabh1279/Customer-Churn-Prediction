@@ -192,6 +192,8 @@ Customer-Churn-Prediction/
 ├── data/
 │   └── Telco-Customer-Churn.csv
 │
+├── images/
+│
 ├── models/
 │   ├── customer_churn_model.pkl
 │   ├── scaler.pkl
@@ -202,7 +204,9 @@ Customer-Churn-Prediction/
 │
 ├── app.py
 ├── README.md
+├── requirements.txt
 └── .gitignore
+```
 ```
 
 ---
@@ -267,8 +271,8 @@ This project can help telecom companies:
 
 ### Connect With Me
 
-- LinkedIn: *(Add LinkedIn Profile Link)*
-- GitHub: *(Add GitHub Profile Link)*
+- LinkedIn: https://www.linkedin.com/in/saurabh-mahajan-/
+- GitHub: https://github.com/Saurabh1279
 
 ---
 
